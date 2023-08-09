@@ -5,7 +5,7 @@
 
 ![](./invitation.jpg)
 
-在线体验：[](https://get-married.kuikui520.top/)
+在线体验：[https://get-married.kuikui520.top/](https://get-married.kuikui520.top/)
 
 ## 开发
 ### 前提条件
